@@ -12,7 +12,7 @@ An interactive map showing Controlled Environment Agriculture (CEA) facilities a
 - Data table with facility details
 
 ### View it live:
-https://shehransyed.github.io/Cal-CEA-Facilities-Map/
+https://ceelab112020.github.io/Cal-CEA-Facilities-Map/
 
 ---
 
