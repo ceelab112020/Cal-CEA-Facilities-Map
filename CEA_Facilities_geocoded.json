@@ -678,12 +678,131 @@
     "Crops": [
       "Leafy Greens"
     ],
-    "Contact Number": "8337386500",
+    "Contact Number": "(833) 738-6500",
     "E-mail address": "",
     "Address": "20570 Pellisier Rd, Tehachapi, CA 93561",
     "Website": "https://www.revolgreens.com/",
     "Latitude": 35.11699496,
     "Longitude": -118.5999613,
     "Description": "Revol Greens has Midwestern roots.  \r\n\r\nIn 2017, we opened our first greenhouse in Minnesota, a place known for its cold, snowy winters, where the thought of producing fresh produce year-round seemed impossible. The magic of a greenhouse, though, is that we can grow delicious lettuce and greens 365 days per year. Anywhere.    \r\n\r\nWe have expanded our network to include three additional greenhouses in California, Georgia and Texas. \r\n\r\nWith an experienced growing team, state-of the-art greenhouses and innovative agricultural practices, Revol Greens is paving the way to a more sustainable future.  "
+  },
+  {
+    "Name of Facility": "UCANR",
+    "Facility Type": [
+      "Greenhouse"
+    ],
+    "Crops": [
+      "Microgreens / Herbs"
+    ],
+    "Contact Number": "(949) 824-4660",
+    "E-mail address": "gejohnson@ucanr.edu",
+    "Address": "7601 Irvine Blvd, Irvine, CA 92618",
+    "Website": "",
+    "Latitude": 33.6891749,
+    "Longitude": -117.720562,
+    "Description": ""
+  },
+  {
+    "Name of Facility": "Pueblo Unido CDC",
+    "Facility Type": [
+      "Greenhouse"
+    ],
+    "Crops": [
+      "Leafy Greens",
+      "Microgreens / Herbs",
+      "Fruits / Vegetables"
+    ],
+    "Contact Number": "(760) 777-7550",
+    "E-mail address": "scarranza@pucdc.org",
+    "Address": "78080 Calle Amigo, Suite 103, La Quinta, CA 92253",
+    "Website": "",
+    "Latitude": 33.678658,
+    "Longitude": -116.34085,
+    "Description": ""
+  },
+  {
+    "Name of Facility": "Olive Hill Greenhouses",
+    "Facility Type": [
+      "Greenhouse"
+    ],
+    "Crops": [
+      "Ornamentals / Houseplants"
+    ],
+    "Contact Number": "(760) 728-4596",
+    "E-mail address": "denise@olivehill.net",
+    "Address": "3508 Olive Hill Rd, Fallbrook, CA 92028",
+    "Website": "",
+    "Latitude": 33.572222,
+    "Longitude": -116.458333,
+    "Description": ""
+  },
+  {
+    "Name of Facility": "Rainforest Flora Inc.",
+    "Facility Type": [
+      "Greenhouse"
+    ],
+    "Crops": [
+      "Ornamentals / Houseplants"
+    ],
+    "Contact Number": "(310) 625-1343",
+    "E-mail address": "jr@rainforestflora.com",
+    "Address": "19121 Hawthorne Blvd, Torrance, CA 90503",
+    "Website": "",
+    "Latitude": 33.8571744,
+    "Longitude": -118.34085,
+    "Description": ""
+  },
+  {
+    "Name of Facility": "Iglesias",
+    "Facility Type": [
+      "Greenhouse"
+    ],
+    "Crops": [
+      "Leafy Greens",
+      "Fruits / Vegetables"
+    ],
+    "Contact Number": "(951) 312-9579",
+    "E-mail address": "wcharli92392@hotmail.com",
+    "Address": "12438 Mesquite rd , Apple valley, CA 92308",
+    "Website": "",
+    "Latitude": 34.540833,
+    "Longitude": -117.190833,
+    "Description": ""
+  },
+  {
+    "Name of Facility": "Home gardener",
+    "Facility Type": [
+      "Greenhouse"
+    ],
+    "Crops": [
+      "Leafy Greens",
+      "Ornamentals / Houseplants",
+      "Fruits / Vegetables"
+    ],
+    "Contact Number": "",
+    "E-mail address": "macarthaigh@gmail.com",
+    "Address": "12864 Via Nestore, Del Mar, CA 92014",
+    "Website": "",
+    "Latitude": 32.931375,
+    "Longitude": -117.2467008,
+    "Description": ""
+  },
+  {
+    "Name of Facility": "Skydassi Corp",
+    "Facility Type": [
+      "Greenhouse"
+    ],
+    "Crops": [
+      "Leafy Greens",
+      "Fruits / Vegetables",
+      "Microgreens / Herbs"
+    ],
+    "Contact Number": "(619) 207-1768",
+    "E-mail address": "patrick@dassifamilyfarm.com",
+    "Address": "7520 Solano St, San Diego, CA 92111",
+    "Website": "",
+    "Latitude": 32.7157,
+    "Longitude": -117.1611,
+    "Description": ""
   }
 ]
